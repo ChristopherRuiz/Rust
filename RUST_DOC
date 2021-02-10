@@ -1,0 +1,6 @@
+cargo run 
+    compiles and runs in one command
+
+cargo check
+    checks to see of code compiles. but doesn't produce an executable
+
